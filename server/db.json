@@ -1,0 +1,806 @@
+{
+  "data": {
+    "timelogs": {
+      "nodes": [
+        {
+          "timeSpent": 1800,
+          "spentAt": "2022-04-04T22:35:35Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9505",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2005/prog2005-2022-workspace/daniehhu/assignment-2/-/issues/2",
+            "title": "Add Firebase support",
+            "description": "Initialize firebase support",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 180,
+          "spentAt": "2022-04-04T21:43:24Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9504",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2005/prog2005-2022-workspace/daniehhu/assignment-2/-/issues/1",
+            "title": "Add Base files",
+            "description": "add the nessescary files in order to initially run the application",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 900,
+          "spentAt": "2022-04-04T09:42:51Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9500",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/marensg/project/-/issues/4",
+            "title": "Idea Process page in wiki",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/763",
+              "name": "Maren Skårestuen Grindal",
+              "username": "marensg"
+            }
+          },
+          "user": {
+            "username": "marensg",
+            "name": "Maren Skårestuen Grindal"
+          }
+        },
+        {
+          "timeSpent": 1800,
+          "spentAt": "2022-03-27T22:04:34Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9376",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/haavbo/haskell-tic-tac-roll/-/issues/10",
+            "title": "checkIfAvailable",
+            "description": "A function which checks if the user or bot placement of a \"mark\" is available or used.",
+            "author": {
+              "id": "gid://gitlab/User/1369",
+              "name": "Håvard Bø",
+              "username": "haavbo"
+            }
+          },
+          "user": {
+            "username": "haavbo",
+            "name": "Håvard Bø"
+          }
+        },
+        {
+          "timeSpent": 180,
+          "spentAt": "2022-03-27T22:00:25Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9367",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/10",
+            "title": "Testing",
+            "description": "- Hspec (X)<br>\n- DocTest (X) <br>\n- QuickTest (X) <br>\n- HUnit (X)",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 300,
+          "spentAt": "2022-03-27T21:49:45Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9367",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/10",
+            "title": "Testing",
+            "description": "- Hspec (X)<br>\n- DocTest (X) <br>\n- QuickTest (X) <br>\n- HUnit (X)",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 3600,
+          "spentAt": "2022-03-27T15:30:10Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9372",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/primo/haskell-tic-tac-roll/-/issues/12",
+            "title": "Create tests",
+            "description": "Create tests for pure functions where it makes sense.\n\ndifficulty: moderate",
+            "author": {
+              "id": "gid://gitlab/User/350",
+              "name": "Abdulhadi Al-Sayed",
+              "username": "Primo"
+            }
+          },
+          "user": {
+            "username": "Primo",
+            "name": "Abdulhadi Al-Sayed"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T14:07:20Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9186",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/4",
+            "title": "Other time tracking",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 480,
+          "spentAt": "2022-03-27T13:57:57Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9186",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/4",
+            "title": "Other time tracking",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T13:50:50Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9370",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/9",
+            "title": "args, parsing and using arguments",
+            "description": "medium difficulty, need to parse chars and integers.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 300,
+          "spentAt": "2022-03-27T13:40:26Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9186",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/4",
+            "title": "Other time tracking",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T13:34:12Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9370",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/9",
+            "title": "args, parsing and using arguments",
+            "description": "medium difficulty, need to parse chars and integers.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 1080,
+          "spentAt": "2022-03-27T13:23:43Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T13:13:21Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9214",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/8",
+            "title": "main gameplay loop",
+            "description": "Main gameplay loop, need to integrate input parsing, player vs player first hand. Game ordering and checking for victory.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 3000,
+          "spentAt": "2022-03-27T13:02:16Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T12:13:24Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 300,
+          "spentAt": "2022-03-27T12:02:19Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9186",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/4",
+            "title": "Other time tracking",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T11:57:29Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T11:45:55Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 600,
+          "spentAt": "2022-03-27T11:36:32Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9371",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/10",
+            "title": "bot ai",
+            "description": "Simple bot ai, in the first case rolling and selecting random available slots, then possibly more advanced concepts.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 480,
+          "spentAt": "2022-03-27T11:26:39Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9188",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/6",
+            "title": "input parsing",
+            "description": "Function to parse input (number which represents the grid spot to occupy and left / right for rolling)",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 420,
+          "spentAt": "2022-03-27T11:18:12Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9188",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/6",
+            "title": "input parsing",
+            "description": "Function to parse input (number which represents the grid spot to occupy and left / right for rolling)",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 1080,
+          "spentAt": "2022-03-27T11:11:20Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9214",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/8",
+            "title": "main gameplay loop",
+            "description": "Main gameplay loop, need to integrate input parsing, player vs player first hand. Game ordering and checking for victory.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        },
+        {
+          "timeSpent": 5400,
+          "spentAt": "2022-03-27T10:47:47Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9358",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/primo/haskell-tic-tac-roll/-/issues/10",
+            "title": "clean gameloop",
+            "description": "Create functions to replace nesting created in gameloop and get a cleaner view.\ncreate a doPlayerMove func to replace most of the logical blocks inside gameloop.\nLikewise a doComputerMove where it makes sense.\n\nFill the rest of guards in the gameloop with relevant logic to complete the game.\n\nDifficulty: moderate",
+            "author": {
+              "id": "gid://gitlab/User/350",
+              "name": "Abdulhadi Al-Sayed",
+              "username": "Primo"
+            }
+          },
+          "user": {
+            "username": "Primo",
+            "name": "Abdulhadi Al-Sayed"
+          }
+        },
+        {
+          "timeSpent": 10800,
+          "spentAt": "2022-03-27T09:19:10Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9369",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/larslru1/tic-tac-roll/-/issues/12",
+            "title": "Add AIs",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/1363",
+              "name": "Lars Ruud",
+              "username": "larslru1"
+            }
+          },
+          "user": {
+            "username": "larslru1",
+            "name": "Lars Ruud"
+          }
+        },
+        {
+          "timeSpent": 7200,
+          "spentAt": "2022-03-27T08:33:19Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9359",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/primo/haskell-tic-tac-roll/-/issues/11",
+            "title": "Add a calculateTurn function",
+            "description": "Add a calculateTurn function for use by the computer.\nThe function should go through and test for a winning next move or roll for every \"empty\" tile\non the Level, if there are none then it should do a simple randomized symbol placement and roll.\nThe function should return a new Level containing the computers choice.\n\ndifficulty: hard",
+            "author": {
+              "id": "gid://gitlab/User/350",
+              "name": "Abdulhadi Al-Sayed",
+              "username": "Primo"
+            }
+          },
+          "user": {
+            "username": "Primo",
+            "name": "Abdulhadi Al-Sayed"
+          }
+        },
+        {
+          "timeSpent": 120,
+          "spentAt": "2022-03-27T05:23:03Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9368",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/11",
+            "title": "Error handling",
+            "description": "create a error handling functionality",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 420,
+          "spentAt": "2022-03-27T05:21:08Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9313",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/5",
+            "title": "checkBoard",
+            "description": "Add a function which checks board for win condition",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 780,
+          "spentAt": "2022-03-27T05:14:58Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9364",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/larslru1/tic-tac-roll/-/issues/11",
+            "title": "Make the game be a \"tie\" if all options are exhausted",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/1363",
+              "name": "Lars Ruud",
+              "username": "larslru1"
+            }
+          },
+          "user": {
+            "username": "larslru1",
+            "name": "Lars Ruud"
+          }
+        },
+        {
+          "timeSpent": 2400,
+          "spentAt": "2022-03-27T05:13:20Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9300",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/marensg/tic-tac-roll/-/issues/6",
+            "title": "Write function for rolling the board",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/763",
+              "name": "Maren Skårestuen Grindal",
+              "username": "marensg"
+            }
+          },
+          "user": {
+            "username": "marensg",
+            "name": "Maren Skårestuen Grindal"
+          }
+        },
+        {
+          "timeSpent": 240,
+          "spentAt": "2022-03-27T05:12:11Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9315",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/7",
+            "title": "Smaller functions which help the main functions",
+            "description": "They are secondary functions which may or may not be used. however time was spent on them\n\nEDIT: did not calculate time for adding a modular gameloop for other functionality other than a normal tic-tac-roll game<br> without a COP and as many functions as i had created which is why the time alloted ended up being way more than estimated",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 2700,
+          "spentAt": "2022-03-27T05:11:06Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9314",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/6",
+            "title": "gameLoop",
+            "description": "Add the gameloop\n\nEDIT: thought it would be simpler",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 780,
+          "spentAt": "2022-03-27T05:10:33Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9314",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/6",
+            "title": "gameLoop",
+            "description": "Add the gameloop\n\nEDIT: thought it would be simpler",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 900,
+          "spentAt": "2022-03-27T05:08:15Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9365",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/9",
+            "title": "Create Computer Operated Player",
+            "description": "create an option for the player to choose to play against a computer operated opponent.",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 120,
+          "spentAt": "2022-03-27T05:07:06Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9312",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/4",
+            "title": "Roll",
+            "description": "Add a function which rotates the board",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 3600,
+          "spentAt": "2022-03-27T05:05:41Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9315",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/7",
+            "title": "Smaller functions which help the main functions",
+            "description": "They are secondary functions which may or may not be used. however time was spent on them\n\nEDIT: did not calculate time for adding a modular gameloop for other functionality other than a normal tic-tac-roll game<br> without a COP and as many functions as i had created which is why the time alloted ended up being way more than estimated",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 7200,
+          "spentAt": "2022-03-27T05:04:22Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9365",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/daniehhu/haskell-tic-tac-roll/-/issues/9",
+            "title": "Create Computer Operated Player",
+            "description": "create an option for the player to choose to play against a computer operated opponent.",
+            "author": {
+              "id": "gid://gitlab/User/1493",
+              "name": "Daniel Hao Huynh",
+              "username": "Daniehhu"
+            }
+          },
+          "user": {
+            "username": "Daniehhu",
+            "name": "Daniel Hao Huynh"
+          }
+        },
+        {
+          "timeSpent": 840,
+          "spentAt": "2022-03-27T04:47:07Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9363",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/larslru1/tic-tac-roll/-/issues/10",
+            "title": "Deny players the right to place a mark on top of other players' marks",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/1363",
+              "name": "Lars Ruud",
+              "username": "larslru1"
+            }
+          },
+          "user": {
+            "username": "larslru1",
+            "name": "Lars Ruud"
+          }
+        },
+        {
+          "timeSpent": 540,
+          "spentAt": "2022-03-27T04:31:13Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9362",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/larslru1/tic-tac-roll/-/issues/9",
+            "title": "Add the option to add any amount of players to the game before starting it",
+            "description": "",
+            "author": {
+              "id": "gid://gitlab/User/1363",
+              "name": "Lars Ruud",
+              "username": "larslru1"
+            }
+          },
+          "user": {
+            "username": "larslru1",
+            "name": "Lars Ruud"
+          }
+        },
+        {
+          "timeSpent": 300,
+          "spentAt": "2022-03-27T04:25:01Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9225",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/marensg/tic-tac-roll/-/issues/2",
+            "title": "Write function for printing the board",
+            "description": null,
+            "author": {
+              "id": "gid://gitlab/User/763",
+              "name": "Maren Skårestuen Grindal",
+              "username": "marensg"
+            }
+          },
+          "user": {
+            "username": "marensg",
+            "name": "Maren Skårestuen Grindal"
+          }
+        },
+        {
+          "timeSpent": 3600,
+          "spentAt": "2022-03-26T21:22:21Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9357",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/primo/haskell-tic-tac-roll/-/issues/9",
+            "title": "Add a doRoll function",
+            "description": "Add a doRoll function that takes a level and a Char direction to roll between (r)ight, (l)eft and (n)one.\nThe function should return a new level containing values after rotation.\n\nDifficulty: moderate",
+            "author": {
+              "id": "gid://gitlab/User/350",
+              "name": "Abdulhadi Al-Sayed",
+              "username": "Primo"
+            }
+          },
+          "user": {
+            "username": "Primo",
+            "name": "Abdulhadi Al-Sayed"
+          }
+        },
+        {
+          "timeSpent": 900,
+          "spentAt": "2022-03-26T14:42:45Z",
+          "issue": {
+            "id": "gid://gitlab/Issue/9214",
+            "webUrl": "https://git.gvk.idi.ntnu.no/course/prog2006/as/jonask/haskell-tick-tack-roll/-/issues/8",
+            "title": "main gameplay loop",
+            "description": "Main gameplay loop, need to integrate input parsing, player vs player first hand. Game ordering and checking for victory.",
+            "author": {
+              "id": "gid://gitlab/User/635",
+              "name": "Jonas Kjærandsen",
+              "username": "JonasK"
+            }
+          },
+          "user": {
+            "username": "JonasK",
+            "name": "Jonas Kjærandsen"
+          }
+        }
+      ]
+    }
+  }
+}
